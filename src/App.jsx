@@ -33,7 +33,7 @@ function App() {
         profile : res.images.secure_base_url + "original",
       }
 
-      dispatch(getApiConfiguration(res));
+      dispatch(getApiConfiguration(url));
     });
   };
 
