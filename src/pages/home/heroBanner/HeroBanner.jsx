@@ -49,7 +49,6 @@ const HeroBanner = () => {
                 onKeyUp={searchQueryHandler}
                />
                 <button>Search</button>
-
           </div>
         </div>
     </ContentWrapper>
