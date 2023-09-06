@@ -37,6 +37,11 @@ function App() {
     });
   };
 
+  const genresCall = async () => {
+    let promises = []
+    let endPoint = ["tv", "movie"]
+  }
+
   return ( <BrowserRouter>
     <Header />
     <Routes>
