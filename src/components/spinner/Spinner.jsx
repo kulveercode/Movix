@@ -19,4 +19,5 @@ const Spinner = ({ initial }) => {
     );
 };
 
+
 export default Spinner;
